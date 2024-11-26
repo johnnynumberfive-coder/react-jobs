@@ -83,20 +83,6 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
-    },
-    {
-      "title": "Test Job 2",
-      "type": "Remote",
-      "location": "San Diego, CA",
-      "description": "Test job 2",
-      "salary": "$175K - 200K",
-      "company": {
-        "name": "Nelson Media, LLC",
-        "description": "",
-        "contactEmail": "john@nelson-media.agency",
-        "contactPhone": "4697690387"
-      },
-      "id": "AwiTC5g"
     }
   ]
 }
